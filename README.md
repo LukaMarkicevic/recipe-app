@@ -1,2 +1,2 @@
 # recipe-app
-Using the EDAMAM Recipe API fetching the recipe of the keyword and displaying the key ingredients
+Recipe app written in React.js and Typescript, using the EDAMAM Recipe API fetching the recipe of the input and displaying the key ingredients
